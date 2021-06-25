@@ -1,6 +1,6 @@
 How does the internet work?
 
-The intert is a global system of interconnected computer networks that uses the Internet protocol suite to communicate between networks and devices. In order to connect computers on a network, 
+The internet is a global system of interconnected computer networks that uses the Internet protocol suite to communicate between networks and devices. In order to connect computers on a network, 
 each computer is connected to a router. The router's job is to make sure that a message sent from one computer arrives at the right destination computer. In order to connect one network to another,
 we can connect routers. Once routers are connected, we can then scale infinitely and continue to join multiple networks together. This joining of networks creates the internet. 
 
@@ -11,5 +11,5 @@ When you click on a link, you are sending a request to access data from a partic
 you have visited the site before). The request goes to your ISP and your ISP is responsible for finding the IP address (based on the domain name that you provided when you clicked 
 the link) of the server you are trying to access. Once your ISP has found the correct IP address through the DNS Server, it sends that address back to you (the client) and then your 
 device will send a request to that specific address. The address that your ISP provided is the location of the server you are trying to access. Once your request reaches that server, 
-the server will send back all corresponding files (packets) that you need to navigate to that webpage. Data is transferred between computers through packets. Packets are small bits of 
+the server will send back all corresponding files (packets) that you need to navigate to that web page. Data is transferred between computers through packets. Packets are small bits of 
 data that get transmitted to your particular device and once all the packets have arrived, your device assembles them to create that particular web page. 
